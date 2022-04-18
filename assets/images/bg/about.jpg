@@ -1,0 +1,8 @@
+<div class="container">
+
+    <h1>404</h1>
+
+    <p>Page not found</p>
+
+            <p>--------------------------<br>Debug mode error details:</p>
+                            Acl resource <b>assets/images</b> in <b>/app/config/acl.php</b> not exists            </div>
