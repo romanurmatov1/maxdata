@@ -2204,3 +2204,7 @@ span.color {
 .alert-danger {
     float: left;
 }
+
+.list1 li {
+    list-style-type: square !important;
+}
